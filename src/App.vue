@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import Modal from "./components/Modal.vue";
+import Modal from "./components/ModalYes";
 
 export default {
   name: "App",
